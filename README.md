@@ -89,7 +89,18 @@ Power BI dashboard: **Clinical Patient Data Analytics Dashboard**
 - Pain severity, glomerular filtration rate, body weight, blood pressure, and heart rate are among the frequently recorded clinical observations.
 - Medication records and healthcare costs were analyzed using Power BI visualizations.
 
+
 ## Key Skills Demonstrated
+
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Microsoft Excel
+- SQL querying
+- Data aggregation and filtering
+- Data visualization
+- Power BI dashboard development
+- Healthcare data analysis
+- Data interpretation and reporting
 
 - Data cleaning
 - Exploratory data analysis
