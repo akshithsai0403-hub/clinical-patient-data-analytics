@@ -1,4 +1,9 @@
 # Clinical Patient Data Analytics
+> A beginner-level healthcare data analytics project using Excel, SQL, and Power BI to explore synthetic clinical patient data.
+
+## Objective
+
+To analyze clinical patient data and identify patterns in patient demographics, healthcare utilization, clinical observations, conditions, medications, and healthcare costs using data cleaning, SQL analysis, and interactive Power BI visualizations.
 
 ## Project Overview
 
