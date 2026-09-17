@@ -50,6 +50,7 @@ An interactive dashboard was created to visualize:
 ## Dashboard
 
 Power BI dashboard: **Clinical Patient Data Analytics Dashboard**
+![Clinical Patient Data Analytics Dashboard](clinical-patient-analytics-dashboard.png)
 
 ## Key Skills Demonstrated
 
