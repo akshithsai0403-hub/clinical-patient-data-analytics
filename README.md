@@ -13,7 +13,6 @@ The project demonstrates the use of Excel, SQL, and Power BI for healthcare data
 
 ## Project Structure
 
-```text
 clinical-patient-data-analytics/
 │
 ├── Data/
