@@ -52,6 +52,15 @@ An interactive dashboard was created to visualize:
 Power BI dashboard: **Clinical Patient Data Analytics Dashboard**
 ![Clinical Patient Data Analytics Dashboard](clinical-patient-analytics-dashboard.png)
 
+## Key Insights
+
+- The dataset contains 113 patients.
+- Female patients account for 60 records, while male patients account for 53 records.
+- Healthcare expenditure shows substantial variation across patients.
+- The dataset contains thousands of healthcare encounter records across different encounter types.
+- Pain severity, glomerular filtration rate, body weight, blood pressure, and heart rate are among the frequently recorded clinical observations.
+- Medication records and healthcare costs were analyzed using Power BI visualizations.
+
 ## Key Skills Demonstrated
 
 - Data cleaning
