@@ -11,6 +11,29 @@ This project analyzes synthetic clinical patient data to identify patterns in pa
 
 The project demonstrates the use of Excel, SQL, and Power BI for healthcare data analysis and visualization.
 
+## Project Structure
+
+```text
+clinical-patient-data-analytics/
+│
+├── Data/
+│   ├── Patients.xlsx
+│   ├── Encounters.xlsx
+│   ├── Conditions.xlsx
+│   ├── Observations.xlsx
+│   └── Medications.xlsx
+│
+├── SQL/
+│   ├── SQL_Result_1.xlsx
+│   └── SQL_Result_2.xlsx
+│
+├── PowerBI/
+│   └── Clinical_Patient_Data_Analytics.pbix
+│
+├── clinical-patient-analytics-dashboard.png
+│
+└── README.md
+
 ## Tools Used
 
 - Microsoft Excel
