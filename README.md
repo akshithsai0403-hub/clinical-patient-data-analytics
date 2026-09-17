@@ -106,5 +106,8 @@ Power BI dashboard: **Clinical Patient Data Analytics Dashboard**
 - Exploratory data analysis
 - SQL querying
 - Data visualization
+## Conclusion
+
+This project provided practical experience in analyzing healthcare data using Excel, SQL, and Power BI. The analysis covered patient demographics, healthcare encounters, clinical observations, conditions, medications, and healthcare costs. The Power BI dashboard presents the findings in an interactive and visual format.
 - Dashboard development
 - Healthcare data interpretation
