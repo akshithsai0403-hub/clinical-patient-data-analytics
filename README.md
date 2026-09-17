@@ -13,25 +13,15 @@ The project demonstrates the use of Excel, SQL, and Power BI for healthcare data
 
 ## Project Structure
 
-clinical-patient-data-analytics/
-│
-├── Data/
-│   ├── Patients.xlsx
-│   ├── Encounters.xlsx
-│   ├── Conditions.xlsx
-│   ├── Observations.xlsx
-│   └── Medications.xlsx
-│
-├── SQL/
-│   ├── SQL_Result_1.xlsx
-│   └── SQL_Result_2.xlsx
-│
-├── PowerBI/
-│   └── Clinical_Patient_Data_Analytics.pbix
-│
-├── clinical-patient-analytics-dashboard.png
-│
-└── README.md
+## Project Structure
+
+| Folder/File | Description |
+|---|---|
+| `Data/` | Five clinical dataset Excel files |
+| `SQL/` | Two SQL query result Excel files |
+| `PowerBI/` | Power BI dashboard file |
+| `clinical-patient-analytics-dashboard.png` | Dashboard screenshot |
+| `README.md` | Project documentation |
 
 ## Tools Used
 
